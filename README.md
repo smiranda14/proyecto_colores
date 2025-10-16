@@ -45,13 +45,11 @@ google-auth-httplib2
 google-cloud-vision
 qrcode
 
----
 ▶️ Ejecución
 
 Configura las credenciales de Google Cloud (Drive + Vision).
 Ejecuta: python main_color_detector_v2.py
 
----
 💡 Tecnologías
 
 Python · Google Drive API · Google Vision AI · Pandas · Pillow
